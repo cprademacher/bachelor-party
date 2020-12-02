@@ -1,0 +1,21 @@
+.main {
+    margin: 15% auto;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.ui.card {
+    margin: 10px;
+}
+
+.main .card-header {
+    font-size: 2rem;
+}
+
+.ui.card img {
+    width: 100%;
+    height: 200px !important;
+}
