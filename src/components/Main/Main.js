@@ -13,7 +13,7 @@ class Main extends React.Component {
                 <div className="content">
                     <a href="google.com" className="card-header">Portland, OR</a>
                     <div className="meta">
-                    <span className="date">Created in Sep 2014</span>
+                    <span className="date">Food - Craft Beer - Nearby Hiking - Easty Transportation - All Drugs Legal</span>
                     </div>
                 </div>
                 <div className="extra content">
@@ -29,7 +29,7 @@ class Main extends React.Component {
                 <div className="content">
                     <a href="google.com" className="card-header">Seattle, WA</a>
                     <div className="meta">
-                    <span className="date">Created in Sep 2014</span>
+                    <span className="date">Outdoor Activities - Good Food - Wineries - Nearby Hiking - Legal Weed</span>
                     </div>
                 </div>
                 <div className="extra content">
